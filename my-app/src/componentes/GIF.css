@@ -1,0 +1,11 @@
+.GIF{
+    border: 1px solid #eeeeee;
+    border-radius: 6px;
+
+    margin: 16px;
+    width: 98%;
+}
+
+.GIF a{
+    color: #fff;
+}
