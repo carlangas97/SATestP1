@@ -8,7 +8,7 @@ describe('Product Component', () => {
 
         const component = ReactTestUtils.renderIntoDocument(<Product/>);
         var h2 = ReactTestUtils.findRenderedDOMComponentWithTag(
-            component, 'h1'
+            component, 'h2'
         );
 
     });
