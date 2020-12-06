@@ -12,7 +12,7 @@ function App() {
             <header className="App-header">
                 <h1>780 - Software Avanzado</h1>
 
-                <Link to='/gif/gatos' className="links">Hola!!</Link>
+                <Link to='/gif/gatos' className="links">Datos</Link>
                 <Route
                     component={Gifs}
                     path="/gif/:keyword"/>
